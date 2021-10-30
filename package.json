@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@babel/core": "^7.16.0",
     "@nuxtjs/auth": "^4.8.5",
     "@nuxtjs/axios": "^5.9.3",
     "bcryptjs": "^2.4.3",
@@ -24,6 +25,7 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.12.17",
     "nodemon": "^1.18.9"
   }
 }
